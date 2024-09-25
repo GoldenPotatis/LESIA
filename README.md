@@ -1,4 +1,4 @@
-# LESIA  
+# LESIA  building load culstering analysis tool
 
 The full name of LESIA project is: **Community-based Local Energy System in Industrial Areas in Sweden**.  
 Introduction of LESIA project can be found at RISE website [LESIA](https://www.ri.se/en/what-we-do/projects/community-based-local-energy-system-in-industrial-areas-in-sweden).
